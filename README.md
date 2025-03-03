@@ -65,16 +65,3 @@ Built using:
  • FFmpeg
 
 ---
-
-### ✅ To add it:
-1. Create a new file in your project folder called **`README.md`**.
-2. Copy-paste the content above.
-3. Save the file.
-
-Then in terminal:
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
-
-Would you like me to add this file directly to your project structure?
