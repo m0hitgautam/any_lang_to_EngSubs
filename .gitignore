@@ -27,3 +27,4 @@ audio_chunks/
 
 # Python environment settings
 .envmyenv/
+myenv/
