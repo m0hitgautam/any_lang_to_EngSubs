@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+myenv/
+
+# MacOS system files
+.DS_Store
+
+# Audio/video outputs
+*.wav
+*.mp3
+*.mp4
+
+# Log files
+*.log
+
+# Temporary files
+temp_audio.wav
+audio_chunks/
+
+# VSCode settings (optional)
+.vscode/
+
+# Python environment settings
+.env
