@@ -26,4 +26,4 @@ audio_chunks/
 .vscode/
 
 # Python environment settings
-.env
+.envmyenv/
